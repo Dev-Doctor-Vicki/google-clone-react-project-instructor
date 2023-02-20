@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-clone-react-project-instructor/static/css/main.ceae699f.css",
+    "main.js": "/google-clone-react-project-instructor/static/js/main.a276bdfa.js",
+    "index.html": "/google-clone-react-project-instructor/index.html",
+    "main.ceae699f.css.map": "/google-clone-react-project-instructor/static/css/main.ceae699f.css.map",
+    "main.a276bdfa.js.map": "/google-clone-react-project-instructor/static/js/main.a276bdfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceae699f.css",
+    "static/js/main.a276bdfa.js"
+  ]
+}
